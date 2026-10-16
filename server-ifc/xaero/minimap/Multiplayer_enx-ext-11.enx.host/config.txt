@@ -1,0 +1,32 @@
+//waypoints config options
+usingMultiworldDetection:false
+ignoreServerLevelId:false
+defaultMultiworldId:mw0,1,0
+teleportationEnabled:true
+usingDefaultTeleportCommand:true
+sortType:NONE
+sortReversed:false
+
+//other config options
+ignoreHeightmaps:false
+
+//dimension types (DO NOT EDIT)
+dimensionType:ad_astra$moon:ad_astra$moon
+dimensionType:minecraft$overworld:minecraft$overworld
+dimensionType:minecraft$the_nether:minecraft$the_nether
+dimensionType:minecraft$the_end:minecraft$the_end
+dimensionType:twilightforest$twilight_forest:twilightforest$twilight_forest_type
+//third-party waypoints
+third-party-waypoint:dim%0:waystones:waystone:6b4034a9-981b-4e1a-bac2-889327ba651c::false::::;
+third-party-waypoint:dim%0:waystones:waystone:527898ff-78f4-409c-a160-0b8786926b97::false::::;
+third-party-waypoint:dim%0:waystones:waystone:91ccc1c6-5fc6-4397-b74f-355782bcb0f0::false::::;
+third-party-waypoint:dim%0:waystones:waystone:abdfa177-871a-41ad-8243-7e238a19344d::false::::;
+third-party-waypoint:dim%0:waystones:waystone:27092b61-2f62-4b5e-ace0-b218cd0a59fe::false::::;
+third-party-waypoint:dim%0:waystones:waystone:d3d07278-51ad-4ce6-9e1a-57150e77299f::false::::;
+third-party-waypoint:dim%0:waystones:waystone:111b966b-2e11-4998-af74-a9fb961f1d78::false::::;
+third-party-waypoint:dim%0:waystones:waystone:cd31d727-cd03-49fc-afa6-b0765f487987::false::::;
+third-party-waypoint:dim%0:waystones:waystone:ee42cfbf-88de-4a1f-b4e4-0d95c03652fd::false::::;
+third-party-waypoint:dim%1:waystones:waystone:0ae19b6f-6895-47e5-b685-264b13971f9f::false::::;
+third-party-waypoint:dim%twilightforest$twilight_forest:waystones:waystone:0ed1f941-5c9c-4bea-8135-e386b6cd47ca::false::::;
+third-party-waypoint:dim%-1:waystones:waystone:014c69f8-9f40-4398-99a2-a0dcfab66a9e::false::::;
+third-party-waypoint:dim%-1:waystones:waystone:4859965d-d87a-407b-ad6d-30485b8b497c::false::::;

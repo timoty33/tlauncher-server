@@ -1,0 +1,112 @@
+{
+  "effects": {
+    "rogues:slice_and_dice": {
+      "attributes": [
+        {
+          "attribute": "minecraft:generic.attack_damage",
+          "value": 0.1,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "rogues:shock": {
+      "attributes": [
+        {
+          "attribute": "minecraft:generic.movement_speed",
+          "value": -1.0,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "rogues:shadow_step": {
+      "attributes": []
+    },
+    "rogues:stealth": {
+      "attributes": [
+        {
+          "attribute": "minecraft:generic.movement_speed",
+          "value": -0.5,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "rogues:stealth_speed": {
+      "attributes": [
+        {
+          "attribute": "minecraft:generic.movement_speed",
+          "value": 0.5,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "rogues:shatter": {
+      "attributes": [
+        {
+          "attribute": "minecraft:generic.armor",
+          "value": -0.3,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "rogues:demoralize": {
+      "attributes": [
+        {
+          "attribute": "minecraft:generic.attack_damage",
+          "value": -0.2,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "rogues:bear_trap": {
+      "attributes": [
+        {
+          "attribute": "minecraft:generic.movement_speed",
+          "value": -2.0,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "rogues:net_trap": {
+      "attributes": [
+        {
+          "attribute": "minecraft:generic.movement_speed",
+          "value": -2.0,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "attribute": "minecraft:generic.knockback_resistance",
+          "value": 100.0,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "rogues:charge": {
+      "attributes": [
+        {
+          "attribute": "minecraft:generic.movement_speed",
+          "value": 0.5,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "attribute": "minecraft:generic.knockback_resistance",
+          "value": 0.5,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "rogues:last_stand": {
+      "attributes": [
+        {
+          "attribute": "minecraft:generic.max_health",
+          "value": 0.2,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "attribute": "minecraft:generic.knockback_resistance",
+          "value": 0.2,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    }
+  }
+}

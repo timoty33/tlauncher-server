@@ -1,0 +1,11 @@
+{
+  "spell_book": {
+    "access": "NONE",
+    "access_param": "",
+    "pool": "",
+    "slot": "",
+    "max_spell_count": 0,
+    "spell_ids": [],
+    "extra_tier_binding": 0
+  }
+}

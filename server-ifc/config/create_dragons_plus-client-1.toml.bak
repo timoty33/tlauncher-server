@@ -1,0 +1,4 @@
+#.
+#The vision range through Dragon's Breath Fluid will be multiplied by this factor
+#Range: 1.0 ~ 256.0
+dragonBreathVisionMultiplier = 1.0

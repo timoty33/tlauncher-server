@@ -1,0 +1,43 @@
+{
+  "effects": {
+    "paladins:divine_protection": {
+      "attributes": []
+    },
+    "paladins:battle_banner": {
+      "attributes": [
+        {
+          "attribute": "minecraft:generic.attack_speed",
+          "value": 0.4,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "attribute": "spell_power:haste",
+          "value": 0.4,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "attribute": "minecraft:generic.knockback_resistance",
+          "value": 0.4,
+          "operation": "MULTIPLY_BASE"
+        },
+        {
+          "attribute": "ranged_weapon:haste",
+          "value": 0.4,
+          "operation": "MULTIPLY_BASE"
+        }
+      ]
+    },
+    "paladins:judgement": {
+      "attributes": []
+    },
+    "paladins:blessed_strikes": {
+      "attributes": []
+    },
+    "paladins:levitate": {
+      "attributes": []
+    },
+    "paladins:priest_absorption": {
+      "attributes": []
+    }
+  }
+}

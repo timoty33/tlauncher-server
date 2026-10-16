@@ -1,0 +1,14 @@
+{
+  "entries": {
+    "archers:spirit_wolf": {
+      "common": {
+        "max_health": 20.0,
+        "movement_speed": 0.35,
+        "attack_damage": 3.0,
+        "follow_range": 32.0
+      },
+      "custom": []
+    }
+  },
+  "schema_version": 1
+}

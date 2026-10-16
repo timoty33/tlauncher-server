@@ -1,0 +1,2 @@
+caveModeType:1
+dimensionTypeId:twilightforest:twilight_forest_type

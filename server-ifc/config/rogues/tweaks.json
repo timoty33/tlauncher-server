@@ -1,0 +1,12 @@
+{
+  "ignore_items_required_mods": false,
+  "rebalance_strength_attack_damage_multiplier": 0.1,
+  "stealth_follow_range": 1.0,
+  "stealth_visibility_multiplier": 0.1,
+  "enable_rebalance_enchantment_sharpness": true,
+  "enchantment_sharpness_multiplier_per_level": 0.08,
+  "enable_rebalance_enchantment_smite": false,
+  "enchantment_smite_multiplier_per_level": 0.08,
+  "enable_rebalance_enchantment_arthropods": false,
+  "enchantment_arthropods_multiplier_per_level": 0.08
+}

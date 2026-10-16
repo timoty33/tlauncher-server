@@ -1,0 +1,47 @@
+{
+  "entries": {
+    "wizards:frost_elemental": {
+      "common": {
+        "max_health": 30.0,
+        "movement_speed": 0.25,
+        "attack_damage": 4.0,
+        "follow_range": 32.0
+      },
+      "custom": [
+        {
+          "id": "spell_power:frost",
+          "value": 1.0
+        }
+      ]
+    },
+    "wizards:arcane_emitter": {
+      "common": {
+        "max_health": 20.0,
+        "movement_speed": 0.3,
+        "attack_damage": 3.0,
+        "follow_range": 32.0
+      },
+      "custom": [
+        {
+          "id": "spell_power:arcane",
+          "value": 1.0
+        }
+      ]
+    },
+    "wizards:fire_hydra": {
+      "common": {
+        "max_health": 30.0,
+        "movement_speed": 0.0,
+        "attack_damage": 4.0,
+        "follow_range": 32.0
+      },
+      "custom": [
+        {
+          "id": "spell_power:fire",
+          "value": 1.0
+        }
+      ]
+    }
+  },
+  "schema_version": 1
+}

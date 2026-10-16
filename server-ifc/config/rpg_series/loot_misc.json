@@ -1,0 +1,12 @@
+{
+  "injectors": {},
+  "regex_injectors": {},
+  "fallback": {
+    "rolls_multiplier": 0.5,
+    "max_rolls": 1.0,
+    "tables": "~:chests/",
+    "blacklist": [],
+    "skip_tables_with_rpg_loot": false,
+    "entries": []
+  }
+}

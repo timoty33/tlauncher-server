@@ -1,0 +1,23 @@
+{
+  "entries": {
+    "paladins:lightwell": {
+      "common": {
+        "max_health": 20.0,
+        "movement_speed": 0.0,
+        "attack_damage": 0.0,
+        "follow_range": 16.0
+      },
+      "custom": [
+        {
+          "id": "spell_power:healing",
+          "value": 1.0
+        },
+        {
+          "id": "spell_power:haste",
+          "value": 100.0
+        }
+      ]
+    }
+  },
+  "schema_version": 1
+}
