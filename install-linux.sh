@@ -6,13 +6,15 @@ echo "
 ████  █████ █   █   █   █████ █   █    █   █ ███ █   █ █████
 "
 
-chmod +x TLauncher.jar # Da permissão de executar
-
-java -jar ./TLauncher.jar # Roda o tlaunhcer
-
+echo "juntando as partes"
 cat parte_* > serverifc.zip
 
-# colocar a pasta de mods e configs
-mv serverifc.zip ~/.minecraft/versions
+echo "extraindo"
+unzip serverifc.zip -d ~/.minecraft/versions
 
-unzip ~/.minecraft/versions/serverifc.zip
+echo "dando permissões"
+chmod 777 TLauncher.jar # Da permissão de executar
+
+echo "rodando o tlauncher"
+java -jar ./TLauncher.jar # Roda o tlaunhcer
+
