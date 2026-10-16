@@ -1,3 +1,0 @@
-#Mon Oct 12 18:46:50 BRT 2026
-SHADOW_CASTING=false
-AO=0
